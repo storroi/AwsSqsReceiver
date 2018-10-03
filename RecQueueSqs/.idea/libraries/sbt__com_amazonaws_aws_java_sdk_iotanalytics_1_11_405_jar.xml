@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.amazonaws:aws-java-sdk-iotanalytics:1.11.405:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-iotanalytics/jars/aws-java-sdk-iotanalytics-1.11.405.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-iotanalytics/srcs/aws-java-sdk-iotanalytics-1.11.405-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
