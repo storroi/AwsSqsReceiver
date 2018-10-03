@@ -42,3 +42,4 @@ RecQueueSqs/project/target
 RecQueueSqs/target
 RecQueueSqs/out
 RecQueueSqs/spark-warehouse
+RecQueueSqs/.idea
